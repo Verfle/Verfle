@@ -1,6 +1,7 @@
 <p align='center'>
   <b>Hi 👋, I'm @Homiesx</b><br>
-  <a href="https://github.com/Homiesx">Github</a>
+  <a href="https://github.com/Homiesx">Github</a> |
+  <a href="https://discord.gg/6MjYQ5T9gW">Discord</a>
 </p>
 <br>
 <p align="center"><br>
@@ -26,3 +27,4 @@
 <p align='center'>
 	<img src='https://komarev.com/ghpvc/?username=Homiesx&color=FAC151'>
 </p>
+

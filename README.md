@@ -23,3 +23,6 @@
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Homiesx&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
 </p>
+<p align='center'>
+	<img src='https://komarev.com/ghpvc/?username=Homiesx&color=FAC151'>
+</p>

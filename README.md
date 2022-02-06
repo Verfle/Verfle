@@ -1,10 +1,10 @@
 <p align='center'>
-  <b>Hi 👋, I'm Homiesx</b><br>
+  <b>Hi 👋, I'm @Homiesx</b><br>
   <a href="https://github.com/Homiesx">Github</a>
 </p>
 <br>
 <p align="center"><br>
-  <a href="https://github.com/KanekiWeb">
+  <a href="https://github.com/Homiesx">
     <img src="https://lanyard-profile-readme.vercel.app/api/576422773694660608"/>
      </a>
 </p>

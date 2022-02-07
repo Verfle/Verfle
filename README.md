@@ -1,11 +1,11 @@
 <p align='center'>
-  <b>Hi 👋, I'm @Venoze</b><br>
-  <a href="https://github.com/venoze">Github</a> |
+  <b>Hi 👋, I'm @Kustins</b><br>
+  <a href="https://github.com/Kustins">Github</a> |
   <a href="https://discord.gg/6MjYQ5T9gW">Discord</a>
 </p>
 <br>
 <p align="center"><br>
-  <a href="https://github.com/venoze">
+  <a href="https://github.com/Kustins">
     <img src="https://lanyard-profile-readme.vercel.app/api/576422773694660608"/>
      </a>
 </p>
@@ -20,11 +20,11 @@
 	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>&nbsp;
 	<br><br>
 	<b>My Github Stats</b><br>
-	<img src="https://github-readme-stats.vercel.app/api?username=venoze&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
+	<img src="https://github-readme-stats.vercel.app/api?username=Kustins&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
 	<br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venoze&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kustins&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
 </p>
 <p align='center'>
-	<img src='https://komarev.com/ghpvc/?username=venoze&color=FAC151'>
+	<img src='https://komarev.com/ghpvc/?username=Kustins&color=FAC151'>
 </p>
 

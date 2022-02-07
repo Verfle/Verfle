@@ -1,6 +1,6 @@
 <p align='center'>
   <b>Hi 👋, I'm @Venoze</b><br>
-  <a href="https://github.com/Homiesx">Github</a> |
+  <a href="https://github.com/venoze">Github</a> |
   <a href="https://discord.gg/6MjYQ5T9gW">Discord</a>
 </p>
 <br>

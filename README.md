@@ -1,5 +1,5 @@
 <p align='center'>
-  <b>Hi 👋, I'm @Kustins</b><br>
+  <b>Hi 👋, I'm @Nisk</b><br>
   <a href="https://github.com/Kustins">Github</a> |
   <a href="https://discord.gg/6MjYQ5T9gW">Discord</a>
 </p>
@@ -7,7 +7,7 @@
 <p align="center"><br>
   <a href="https://github.com/Kustins">
     <img src="https://lanyard-profile-readme.vercel.app/api/576422773694660608"/>
-     </a>
+	</a>
 </p>
 <br>
 <p align="center">
